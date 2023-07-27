@@ -1,0 +1,32 @@
+{
+  "name": "generoi/acf-image-crop-add-on",
+  "type": "wordpress-plugin",
+  "license": "MIT",
+  "description": "Deprected plugin",
+  "homepage": "https://github.com/generoi/acf-image-crop-add-on",
+  "authors": [
+    {
+      "name": "Oskar Schöldström",
+      "email": "public@oxy.fi" }
+  ],
+  "keywords": [
+    "wordpress"
+  ],
+  "support": {
+    "issues": "https://github.com/generoi/wp-acf-image-crop-add-on/issues"
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://wpackagist.org"
+    }
+  ],
+  "require": {
+    "php": ">=5.6.0"
+  },
+  "archive" : {
+    "exclude": [
+      ".gitignore"
+    ]
+  }
+}
